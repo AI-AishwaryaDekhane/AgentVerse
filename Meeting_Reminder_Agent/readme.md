@@ -62,15 +62,10 @@ Here are some screenshots demonstrating the functionality of My First Agent:
 4. **Agent Running in Terminal** - The agent runs continuously, monitoring for events.
    ![Screenshot 4](./screenshot4.png)
 
-To add your own screenshots, place the image files in the project directory and reference them in this document using:
-```markdown
-![Description](./image-file-name.png)
-```
-
 ## Configuration
 - Modify `SCOPES` to adjust the level of access to Google Calendar.
-- Change `endpoint` and `port` in `my_first_agent` for different hosting configurations.
+- Change `endpoint` and `port` in `my_mNotify_agent` for different hosting configurations.
 
-## License
-This project is licensed under the MIT License.
+## Created By
+Aishwarya Dekhane
 
