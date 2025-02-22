@@ -1,3 +1,6 @@
+![domain:innovation-lab](https://img.shields.io/badge/innovation--lab-3D8BD3)
+![domain:finance](https://img.shields.io/badge/personal_assistant-3D8BD3)
+
 # AI Automation Agents  
 
 ## Description  
