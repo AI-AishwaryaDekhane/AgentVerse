@@ -38,7 +38,7 @@ def display_notification(message):
 async def startup_handler(ctx: Context):
     ctx.logger.info(f'My name is {ctx.agent.name} and my address is {ctx.agent.address}')
     
-    api_key = 'ff16b74233adf0acc40118461939c953'  # Replace with the obtained API key
+    api_key = 'your_key'  # Replace with the obtained API key
     #get your api keys here: [https://home.openweathermap.org/api_keys]
     weather_info = get_weather(api_key)
     print(f"Weather Info: {weather_info}")
