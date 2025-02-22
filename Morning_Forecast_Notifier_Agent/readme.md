@@ -1,7 +1,7 @@
 # My Weather Notifier Agent
 
 ## Overview
-My First Agent is an AI-driven assistant that fetches weather information and sends notifications about the current weather conditions. It is built using `uagents` and integrates with the OpenWeatherMap API.
+My Weather Notifier Agent is an AI-driven assistant that fetches weather information and sends notifications about the current weather conditions. It is built using `uagents` and integrates with the OpenWeatherMap API.
 
 ## Input Data Model
 The agent processes weather data using the following model:
@@ -19,7 +19,7 @@ The agent fetches weather details and returns them in a formatted string, includ
 - **Error Handling**: If an error occurs, an appropriate message is returned.
 
 ## Screenshots
-Here are some screenshots demonstrating the functionality of My First Agent:
+Here are some screenshots demonstrating the functionality of My Agent:
 
 1. **Notification** - Weather Notification in side bar in morning.
    ![Screenshot 1](./Screenshot1.png)
