@@ -3,8 +3,8 @@ import json
 from uagents import Agent, Context, Model
 
 # API Key for n8n (if necessary)
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5Y2FmMzAwMy05N2QwLTRiYmYtYTg3ZS05MDU2YmRkMDhhYmUiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwiaWF0IjoxNzQwMzY1NjkzfQ.Bnm2PxvA0i2UxOiirnvvRi9P5XqHUcAo8eqggR36L7g"
-WEBHOOK_URL = "http://localhost:5678/webhook/e7a841ec-135f-470d-96e7-9b6d3f432eaf"
+API_KEY = "api-key"
+WEBHOOK_URL = "webhook"
 
 # Define the request model (received request from another agent)
 class requestForwardAgent(Model):

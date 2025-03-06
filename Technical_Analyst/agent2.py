@@ -10,7 +10,7 @@ subprocess.Popen(["bash", "/Users/aishwaryadekhane/Desktop/My_Files/Fetch.ai/Pro
 # Wait for a few seconds to ensure n8n starts properly
 time.sleep(10)  # Adjust this if needed
 
-REQUEST_FORWARDING_AGENT_ADDRESS = 'agent1qgqtaz4dwtdxr90q3u828zkudl7gc29ya0l8cdwshl2zvm4mmus7cczsn32'
+REQUEST_FORWARDING_AGENT_ADDRESS = 'address'
 
 # Define the request model (to be sent to the forwarding agent)
 class requestForwardAgent(Model):
