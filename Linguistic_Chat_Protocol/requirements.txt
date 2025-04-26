@@ -1,0 +1,6 @@
+uagents==0.22.3
+python-dotenv==1.0.1
+uagents_core==0.2.3
+scholarly==1.7.11
+textstat==0.7.3
+language-tool-python==2.7.1
