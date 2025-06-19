@@ -36,6 +36,8 @@ The Resume Analyzer ingests one or more résumés and a target Job Description, 
 
 Everything runs asynchronously through uAgents, allowing each micro-service to scale or swap models independently.
 
+🔗 Check out the [product-ready project on LinkedIn](https://www.linkedin.com/posts/fetch-ai-innovation-lab_techspace-tech-technology-activity-7324391666969190400-YyGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAADthU6sBvn1eGLn9HVK_Rr05hINCCfmN6eE)
+
 ---
 
 ## Key Features
