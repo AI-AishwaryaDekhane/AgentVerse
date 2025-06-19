@@ -208,9 +208,11 @@ $ watchfiles 'python embedding_agent.py'
 
 ---
 
-## 🧹 System Architecture
+## Sequence Diagram
 
 ![Sequence Diagram](./sequence.png)
+
+## DataFlow Diagram
 ![Flow Diagram](./Flow.png)
 
 ---
@@ -218,11 +220,6 @@ $ watchfiles 'python embedding_agent.py'
 ## Contributing
 
 1. Fork the repo & create your branch:
-
-```bash
-git checkout -b feature/my-awesome-feature
-```
-
 2. Commit your changes & run tests.
 3. Push to the branch and open a Pull Request.
 
